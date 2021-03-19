@@ -1,0 +1,15 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* for: Es un comando utilizado en Javascript para realizar repeticiones, o bucles de manera ordenada. Tambien nos permite
+crear matrices y podemos usar mas de un for a la vez, es decir que podemos anidarlo.
+
+* &&: Es un operador logico que se denomina "Y" o en su ingles nativo "AND". Nos permite realizar comparaciones entre dos
+variables y su estado sera true (verdadero) siempre y cuando ambas variables sean true
+
+* ||:Es un operador logico que se denomina "O", o en su ingles nativo "OR". Nos permite realizar comparaciones entre dos
+variables y su estado sera true (verdadero) con que simplemente una de sus variables lo sea tambien. Para que sea false (falso)
+ninguna de sus variables tiene que ser true.
+
+ * !:Es un operador logico que se denomina "NO", o en ingles "NOT". Nos permite cambiar el estado de una variable de true a false,
+ o viceversa. 
