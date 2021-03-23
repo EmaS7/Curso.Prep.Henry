@@ -1,0 +1,20 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos: Los objetos son una forma de programar, en la cual nosotros creamos una coleccion de valores, o propiedades, y esas
+propiedades tienen distintos valores
+
+Propiedades: Las propiedades son parametros que se establecen al momento de crear un objeto, para que este pueda cumplir con
+los requisitos que querramos
+
+Métodos:es una forma diferente de llamar a una funcion que se guarda en un objeto. Para llamarla o invocarla solo tenemos que
+usar el punto. Ej. .nuevaFuncion()
+
+Bucle for…in: Este bucle es ligeramente diferente al 'for'convencional, porque este bucle lo que hace es iterar o actuar sobre
+propiedades que se puedan enumerar o establecer un orden numerico sobre ellos.
+
+Notación de puntos vs notación de corchetes: La notacion de puntos se la conoce como "Dot Notation" y tiene la ventaja que puede
+usarse para llamar a una propiedad con una escritura mas facil y agil, pero su desventaja es que su escritura es literal, y no permite
+que escribamos variables ni nada por el estilo.
+La notacion de corchetes se la conoce como "Bracket Notation", y su desventaja es que es mas lento a la hora de escribirlo, pero
+la ventaja que tiene es que nos permite realizar mas cosas con las propiedades de los Objetos. 
