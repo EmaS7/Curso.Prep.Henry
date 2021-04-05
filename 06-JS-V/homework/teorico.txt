@@ -1,0 +1,10 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo
+estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* 'prototype': un prototype (en español prototipo) es un objeto que esta asociado a funciones u objetos por defecto, definidos por
+el ususario.
+
+
+* _Constructors_ (de Clases): Los constuctores de clases son codigos que contruyen un objeto y sirve para configurarlo tambien.
+Si queremos escribir un constructor por nosotros mismos tenemos que incluir una función llamada constructor dentro del cuerpo
+de la clase.
